@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "本次为初步试跑版，内容仍存在很多问题，请不要着急，按说明反馈，一点点修复。",
+  "changelog": "1.执法代理人任务还原程度90%，后续基本不再更新；\n2.物流/采矿/可研任务修复",
   "conflicts": [
     "mission-repair",
     "evejs-mission-data-pack"
@@ -17,7 +17,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.0.0/mission-content-repair-1.0.0.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.0/mission-content-repair-1.1.0.zip"
     }
   ],
   "evejsVersions": [
@@ -32,14 +32,14 @@
   ],
   "history": [],
   "id": "mission-content-repair",
-  "publishedAt": "2026-11-05",
+  "publishedAt": "2026-11-09",
   "readme": [
     "目前为暂时试行版，已实现职业代理人四族四职业按任务描述修复；L1-L5级安全代理人任务基本可玩，故事线16个任务后触发，史诗线可接可玩。仍存在问题：L1-L5级任务，故事线，史诗线任务内容存在不正确（无法按任务描述完成，这个需要大量的内容修复工作，后续缓慢进行）；部分任务难度，怪类型等不匹配；部分任务可能会卡住；L1-L5物流/矿物/安全任务还未修复。希望大家试玩后及时反馈，然后根据反馈缓慢修复（任务内容修复量太大，试跑耗费大量时间。反馈方式为留言：说明几级什么类型的任务，碰到的问题，应该的玩法，怪物的类型（血袭者，古斯塔斯，自由无人机等，越详细越好）。数据来源：materal大佬的任务修复mod；一闪一闪亮晶大佬提供的0.12.9的任务修复文件；柯南大佬提供的任务数据CSV文件。感谢各位大佬的支援"
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
   "requiresRestart": true,
-  "sha256": "7cf76e29b3f60d6b2b51d4fe213776876ff8f9801a75aef21be5d92e95efb775",
-  "sizeBytes": 2164803,
+  "sha256": "649c31d2e453a7ec0b9f1be8def05e9c808d8f7a9f0498a9946e7a2e7768b483",
+  "sizeBytes": 2521673,
   "tags": [
     "任务",
     "修复",
@@ -47,5 +47,5 @@
     "安全代理人",
     "史诗线"
   ],
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
