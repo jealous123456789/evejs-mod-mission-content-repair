@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "L3/L4/L5安全代理人任务怪物类型、势力、波次匹配",
+  "changelog": "L1/L2任务怪类型、数量、势力匹配",
   "conflicts": [
     "mission-repair",
     "evejs-mission-data-pack"
@@ -17,7 +17,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.1/mission-content-repair-1.1.1.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.2/mission-content-repair-1.1.2.zip"
     }
   ],
   "evejsVersions": [
@@ -38,8 +38,8 @@
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
   "requiresRestart": true,
-  "sha256": "7db1fb1ae482676cd1ee163e3abb508a06648d2e4c2739d3ed352ce7d7e1ee09",
-  "sizeBytes": 2711316,
+  "sha256": "533f6b931413afb36549e59a6241921b5ad6f10a2e07ac5ace11f09f0dcbc645",
+  "sizeBytes": 2719361,
   "tags": [
     "任务",
     "修复",
@@ -47,5 +47,5 @@
     "安全代理人",
     "史诗线"
   ],
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
