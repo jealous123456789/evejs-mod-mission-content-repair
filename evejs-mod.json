@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "修复了燃烧者任务，故事线任务，深渊，DED及远征，海盗要塞，海盗叛乱，势力战争",
+  "changelog": "修复ded最终boss刷不出，建筑不掉落箱子的问题\n修复了海盗叛乱面板显示",
   "conflicts": [
     "mission-repair",
     "evejs-mission-data-pack"
@@ -17,7 +17,7 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.3.0/mission-content-repair-1.3.0.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.3.1/mission-content-repair-1.3.1.zip"
     }
   ],
   "evejsVersions": [
@@ -41,7 +41,7 @@
   ],
   "history": [],
   "id": "mission-content-repair",
-  "publishedAt": "2026-11-21",
+  "publishedAt": "2026-11-22",
   "readme": [
     "职业代理人按任务描述修复，任务目标、敌人、场景和奖励能够正常对应；执法者与 AIR 职业计划已补齐。",
     "L1-L5 安全任务以及物流、采矿、科研任务可正常接取和完成；物流、采矿、科研按代理人等级分档，三处安全任务按核实内容定点修正。",
@@ -56,8 +56,8 @@
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
   "requiresRestart": true,
-  "sha256": "77d25dfc5a2aea019863b10ce2b4e66e02b8152fa563310ad39b1382e346b885",
-  "sizeBytes": 7772648,
+  "sha256": "447f76a9c19ed3e6fb6c8f32712c1cad89eb75ea3ad968e9ccb794b2f22d51ef",
+  "sizeBytes": 7887438,
   "tags": [
     "任务",
     "修复",
@@ -65,5 +65,5 @@
     "安全代理人",
     "史诗线"
   ],
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
