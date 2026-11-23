@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "修复了boss不正常刷新\n修复了建筑boss击毁不完成不掉落\n修复了部分加速门不激活",
+  "changelog": "测试版，修复了部分DED问题",
   "conflicts": [
     "mission-repair",
     "evejs-yuan-zheng"
@@ -56,7 +56,7 @@
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
   "requiresRestart": true,
-  "sha256": "9c3c26b15ceaa0bb828043a83ccf0ff5443a9d75451cf1bfe545cf0876b8192a",
+  "sha256": "686942690d44417c3843381554d56cfa43085931deabca57df3b14a1e334492c",
   "sizeBytes": 8610828,
   "tags": [
     "任务",
