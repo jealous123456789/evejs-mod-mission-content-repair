@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "玩法",
-  "changelog": "修复了开启mod造成战斗异常消失的bug\n修复了联合矿业采矿代理人重复发放相同任务的bug",
+  "changelog": "适配261126.2服务端",
   "conflicts": [
     "mission-repair",
     "evejs-yuan-zheng"
@@ -17,13 +17,14 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.3.3/mission-content-repair-1.3.3.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.3.4/mission-content-repair-1.3.4.zip"
     }
   ],
   "evejsVersions": [
     "261028.x",
     "261108.x",
-    "261115.x"
+    "261115.x",
+    "261126.x"
   ],
   "featured": false,
   "highlights": [
@@ -41,7 +42,7 @@
   ],
   "history": [],
   "id": "mission-content-repair",
-  "publishedAt": "2026-11-25",
+  "publishedAt": "2026-11-28",
   "readme": [
     "职业代理人按任务描述修复，任务目标、敌人、场景和奖励能够正常对应；执法者与 AIR 职业计划已补齐。",
     "L1-L5 安全任务以及物流、采矿、科研任务可正常接取和完成；物流、采矿、科研按代理人等级分档，三处安全任务按核实内容定点修正。",
@@ -56,8 +57,8 @@
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
   "requiresRestart": true,
-  "sha256": "10839bb3bc0bc39c41137e7ec45c5992db1d691d3d9e6471faa2ac246fde3645",
-  "sizeBytes": 9829090,
+  "sha256": "5e2efe223394955da5b6a24a19cfd8dc21c22c017079e3bff3af52780ef6e5a6",
+  "sizeBytes": 15716401,
   "tags": [
     "任务",
     "修复",
@@ -65,5 +66,5 @@
     "安全代理人",
     "史诗线"
   ],
-  "version": "1.3.3"
+  "version": "1.3.4"
 }
